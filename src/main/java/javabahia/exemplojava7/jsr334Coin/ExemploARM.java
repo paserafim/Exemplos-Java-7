@@ -13,6 +13,7 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.sql.Connection;
 import java.sql.SQLException;
+import java.sql.*;
 
 /**
  *Essa classe tem como objetivo demonstrar a utilizacao do Automatic Resource Management, 
